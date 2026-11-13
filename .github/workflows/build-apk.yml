@@ -94,9 +94,7 @@ jobs:
             <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
             <application
                 android:allowBackup="true"
-                android:icon="@mipmap/ic_launcher"
-                android:label="Hindi Game Voice v2"
-                android:roundIcon="@mipmap/ic_launcher_round"
+               android:label="Hindi Game Voice v2"
                 android:supportsRtl="true"
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar">
                 <activity
